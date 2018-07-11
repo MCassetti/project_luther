@@ -1,2 +1,5 @@
 *examples*
 .ipynb_checkpoints/
+*.env
+*selenium*
+~
